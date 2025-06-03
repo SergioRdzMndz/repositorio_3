@@ -1,0 +1,7 @@
+Conceptos de sistemas operativos:
+Kernel : Es el corazón de una computadora y es el intermediario entre el hardware y el software.
+Kernel monolitico: Tipo de kernel que no separa basura y por ende es más rapido y es el más usado.
+Microkernel: Tipo de kernel que si separa la basura y puede ser más lento.
+Hibrido: Combinacionde ambos tipos de kernel
+
+Conceptos pero en la rama de Examen
